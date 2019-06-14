@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841eff96-7923-40c5-8edc-6898ecdb3111" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="841eff96-7923-40c5-8edc-6898ecdb3111" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -295,6 +293,36 @@
               <item name="flink" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zc" type="462c0819:PsiDirectoryNode" />
+              <item name="streaming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -449,7 +477,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560527627487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1560528005368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560528005368</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1560528046058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560528046058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -467,7 +509,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5792208" visible="true" weight="0.28742516" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5792208" visible="true" weight="0.28742516" />
       <window_info id="Structure" order="1" sideWeight="0.42077923" side_tool="true" weight="0.25567323" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -475,7 +517,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.42154565" side_tool="true" weight="0.25567323" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.21803279" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.21730383" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40819672" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42295083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
