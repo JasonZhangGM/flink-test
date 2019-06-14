@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841eff96-7923-40c5-8edc-6898ecdb3111" name="Default Changelist" comment="" />
+    <list default="true" id="841eff96-7923-40c5-8edc-6898ecdb3111" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -261,6 +263,13 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="975" />
@@ -281,6 +290,11 @@
               <item name="flink" type="b2602c69:ProjectViewProjectNode" />
               <item name="flink" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -288,6 +302,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -427,6 +442,14 @@
       <workItem from="1558667619208" duration="72454000" />
       <workItem from="1560423445262" duration="7504000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1560527627486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560527627487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -444,7 +467,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5792208" visible="true" weight="0.28742516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5792208" visible="true" weight="0.28742516" />
       <window_info id="Structure" order="1" sideWeight="0.42077923" side_tool="true" weight="0.25567323" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -519,7 +542,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
